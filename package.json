@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@angular/common": "^9.0.2",
-    "@angular/core": "^9.0.2",
+    "@angular/core": "^9.0.3",
     "@myanmartools/ng-zawgyi-detector": "^1.2.1",
     "rxjs": "^6.5.4",
     "zone.js": "^0.10.2"
