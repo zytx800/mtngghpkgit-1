@@ -9,7 +9,7 @@
     "@angular/common": "^10.0.7",
     "@angular/core": "^10.0.7",
     "@myanmartools/ng-zawgyi-detector": "^1.2.3",
-    "rxjs": "^6.6.0",
+    "rxjs": "^6.6.2",
     "zone.js": "^0.10.3"
   }
 }
